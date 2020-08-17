@@ -31,14 +31,14 @@ To reduce doctors and health care workers to be affected by Covid-19 spread. The
 
 
 ## Datasets
-Datasets are already available in this repository.It is enough to train the chatbot.You can also change the dataset according to users convenience .
-Orelse if you want to download datasets you may refer,
+Datasets are already available in this repository. It is enough to train the chatbot. You can also change the dataset according to users convenience.
+Or else if you want to download datasets you may refer,
 https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datasets/README.md
 
 
 
 ## Troubleshoots & FAQ
-1. Unable to download Pyaudio in command prompt or pycharm
+1. Unable to download Pyaudio in command prompt or PyCharm
    Download Pyaudio wheel file from here 
    https://pypi.org/project/PyAudio/#files
    Then use the command prompt or terminal to install from wheel file.
@@ -47,8 +47,10 @@ https://github.com/microsoft/BotBuilder-PersonalityChat/blob/master/CSharp/Datas
    Download new datasets from the above-mentioned link, then train the bot.
    
 3. Unable to access above mentioned email id
-   Change email id according to the user’s  convenience.
+   Change email id according to the user’s convenience.
    
 4. Can't recognize voice properly
    Pronounce correctly in English.
    
+
+
