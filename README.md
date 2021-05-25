@@ -22,7 +22,7 @@ In this Patient Monitoring chatbot following tasks are performed
 * Can send and read email of patients using gmail.
 * Can send emergency message to doctor.
 * Test for mental-stress analysis of patients are taken and sent to doctor.
-* Helps to know current news in India by accessing Times of India website.
+* Helps to know current headline news in India by accessing Times of India website.
 
 
 
